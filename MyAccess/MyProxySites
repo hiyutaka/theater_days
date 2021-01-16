@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,mtalk.google.com,
+  - DOMAIN,services.googleapis.cn
+  - DOMAIN,time.google.com
