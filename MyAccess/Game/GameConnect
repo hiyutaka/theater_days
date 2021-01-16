@@ -1,0 +1,11 @@
+payload:
+  # > シャニマス（シャイニーカラーズ）
+  - DOMAIN-SUFFIX,enza.fun,
+  # >ワールド フリップ
+  - DOMAIN,api.worldflipper.jp,  
+  # > オルサガ 
+  - DOMAIN-SUFFIX,horsaga.jp,
+  - DOMAIN-SUFFIX,noahapps.jp,
+  # > アズールレーン
+  - DOMAIN,blhxjploginapi.azurlane.jp,
+  - DOMAIN,azurapi.yostar.co.jp,
