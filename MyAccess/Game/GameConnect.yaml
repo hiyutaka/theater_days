@@ -1,7 +1,7 @@
 payload:
   # > シャニマス（シャイニーカラーズ）
   - DOMAIN-SUFFIX,enza.fun
-  # >ワールド フリップ
+  # > ワールド フリップ
   - DOMAIN,api.worldflipper.jp
   # > オルサガ 
   - DOMAIN-SUFFIX,horsaga.jp
