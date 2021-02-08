@@ -6,3 +6,5 @@ payload:
   - DOMAIN,hsm-dl.sega-net.jp
   # > アズールレーン
   - DOMAIN,blhxstatic.akamaized.net
+  # > ブルーアーカイブ
+  - DOMAIN,prod-clientpatch.bluearchiveyostar.com
