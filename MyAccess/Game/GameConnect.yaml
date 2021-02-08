@@ -11,3 +11,5 @@ payload:
   - DOMAIN,azurapi.yostar.co.jp
   # > 雀魂
   - DOMAIN-SUFFIX,mahjongsoul.com
+  # > ブルーアーカイブ
+  - DOMAIN-SUFFIX,bluearchive.jp
