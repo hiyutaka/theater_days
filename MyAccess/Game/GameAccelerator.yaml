@@ -7,4 +7,5 @@ payload:
   # > アズールレーン
   - DOMAIN,blhxstatic.akamaized.net
   # > ブルーアーカイブ
-  
+  # > ウマ娘
+  - DOMAIN,prd-storage-umamusume.akamaized.net
