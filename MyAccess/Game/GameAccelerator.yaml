@@ -14,3 +14,5 @@ payload:
   # > ブルーアーカイブ
   # > ウマ娘
   - DOMAIN,prd-storage-umamusume.akamaized.net
+  # > PSO2
+　 - DOMAIN,download.pso2.jp
