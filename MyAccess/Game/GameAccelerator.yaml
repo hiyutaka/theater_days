@@ -1,4 +1,7 @@
 payload:
+  # >プリコネ
+  - DOMAIN,prd-priconne-redive.akamaized.net
+  - DOMAIN-KEYWORD,priconne-redive
   # >ワールド フリップ
   - DOMAIN,pinball-reproduce-log-production.s3.ap-northeast-1.amazonaws.com
   - DOMAIN,worldflipper.akamaized.net
