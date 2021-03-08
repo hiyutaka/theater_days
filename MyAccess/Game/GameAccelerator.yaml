@@ -5,6 +5,8 @@ payload:
   # >ワールド フリップ
   - DOMAIN,pinball-reproduce-log-production.s3.ap-northeast-1.amazonaws.com
   - DOMAIN,worldflipper.akamaized.net
+  # >ミリシタ
+  - DOMAIN,d2sf4w9bkv485c.cloudfront.net
   # > オルサガ 
   - DOMAIN,hsm-dl.sega-net.jp
   # > アズールレーン
