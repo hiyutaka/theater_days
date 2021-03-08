@@ -1,0 +1,8 @@
+payload:
+  # > プリコネ
+  - DOMAIN,api-priconne-redive.cygames.jp
+  - IP-CIDR,104.115.222.198/32
+  # > ワールド フリップ
+  - DOMAIN,api.worldflipper.jp
+  # > ウマ娘
+  - DOMAIN,api-umamusume.cygames.jp
