@@ -1,0 +1,16 @@
+payload:
+  # >プリコネ
+  - DOMAIN,prd-priconne-redive.akamaized.net
+  - DOMAIN-KEYWORD,priconne-redive
+  # >ワールド フリップ
+  - DOMAIN,pinball-reproduce-log-production.s3.ap-northeast-1.amazonaws.com
+  - DOMAIN,worldflipper.akamaized.net
+  # > ウマ娘
+  - DOMAIN,prd-storage-umamusume.akamaized.net
+  # >ミリシタ
+  - DOMAIN,d2sf4w9bkv485c.cloudfront.net
+  # > オルサガ 
+  - DOMAIN,hsm-dl.sega-net.jp
+  # > アズールレーン
+  - DOMAIN,blhxstatic.akamaized.net
+  # > ブルーアーカイブ
