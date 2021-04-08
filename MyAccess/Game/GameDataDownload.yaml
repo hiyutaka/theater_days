@@ -13,6 +13,7 @@ payload:
   - DOMAIN,hsm-dl.sega-net.jp
   # > アズールレーン
   - DOMAIN,blhxstatic.akamaized.net
+  - DOMAIN,blhxstatic.yo-star.com
   # > ブルーアーカイブ
   # > PSO2
   - DOMAIN,download.pso2.jp
