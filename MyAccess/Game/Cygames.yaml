@@ -6,3 +6,4 @@ payload:
   - DOMAIN,api.worldflipper.jp
   # > ウマ娘
   - DOMAIN,api-umamusume.cygames.jp
+  - IP-CIDR,223.119.155.78/32
