@@ -2,7 +2,7 @@
 host,blhxjploginapi.azurlane.jp,YOSTAR
 host,azurapi.yostar.co.jp,YOSTAR
 # > 雀魂
-host-suffix,,mahjongsoul.com,YOSTAR
+host-suffix,mahjongsoul.com,YOSTAR
 # > ブルーアーカイブ
-host-suffix,,bluearchive.jp,YOSTAR
-host-suffix,,bluearchiveyostar.com,YOSTAR
+host-suffix,bluearchive.jp,YOSTAR
+host-suffix,bluearchiveyostar.com,YOSTAR
