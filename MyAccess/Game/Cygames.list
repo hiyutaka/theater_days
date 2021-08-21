@@ -1,7 +1,0 @@
-# > プリコネ
-host,api-priconne-redive.cygames.jp,CYGAMES
-ip-cidr,104.115.222.198/32,CYGAMES
-# > ワールド フリップ
-host,api.worldflipper.jp,CYGAMES
-# > ウマ娘
-host,api-umamusume.cygames.jp,CYGAMES
