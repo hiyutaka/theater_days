@@ -1,7 +1,8 @@
 host-suffix,9game.cn,reject
 host-suffix,microvirt.com,reject
 host-keyword,ero,reject
-host-keyword,hentai,reject
-host-keyword,xnxx,reject
-host-keyword,xvideos,reject
+host-keyword,henta,reject
+host-keyword,xnx,reject
+host-keyword,xvid,reject
 host-keyword,spank,reject
+host-keyword,imembe,reject
