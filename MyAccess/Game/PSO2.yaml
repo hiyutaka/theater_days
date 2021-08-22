@@ -5,6 +5,8 @@ payload:
   - IP-CIDR,210.189.208.0/24
   - DOMAIN,mgr.gameguard.co.kr
   - DOMAIN-SUFFIX,pso2gs.net
+
+  - DOMAIN,download.pso2.jp
   #- IP-CIDR,52.79.141.0/24
   #- IP-CIDR,54.180.175.59/24
   #- IP-CIDR,13.33.9.0/24
