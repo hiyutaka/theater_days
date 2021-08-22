@@ -1,5 +1,3 @@
 # > オルサガ 
 host,hsm-dl.sega-net.jp,GAMEAC
-# > アズールレーン
-host,blhxstatic.akamaized.net,GAMEAC
-host,blhxstatic.yo-star.com,GAMEAC
+
