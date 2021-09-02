@@ -16,3 +16,5 @@ host-keyword,avido,reject
 host-keyword,hani,reject
 host-keyword,ujiz,reject
 host-keyword,are-v,reject
+host-keyword,avba,reject
+host-keyword,nafl,reject
