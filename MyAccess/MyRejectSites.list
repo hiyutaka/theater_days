@@ -18,3 +18,4 @@ host-keyword,ujiz,reject
 host-keyword,are-v,reject
 host-keyword,avba,reject
 host-keyword,nafl,reject
+host-keyword,aho,reject
