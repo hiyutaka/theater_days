@@ -20,4 +20,4 @@ host-keyword,avba,reject
 host-keyword,nafl,reject
 host-keyword,aho,reject
 host-keyword,mepor,reject
-
+host-keyword,dude,reject
