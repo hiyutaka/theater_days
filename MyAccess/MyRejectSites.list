@@ -21,3 +21,5 @@ host-keyword,nafl,reject
 host-keyword,aho,reject
 host-keyword,mepor,reject
 host-keyword,dude,reject
+host-keyword,ube.ne,reject
+host-keyword,uuan,reject
