@@ -9,4 +9,4 @@ host,pinball-reproduce-log-production.s3.ap-northeast-1.amazonaws.com,CYGAMES
 host,worldflipper.akamaized.net,CYGAMES
 # > ウマ娘
 host,api-umamusume.cygames.jp,CYGAMES
-host,prd-storage-umamusume.akamaized.net,CYGAMES
+host,prd-storage-game-umamusume.akamaized.net,CYGAMES
