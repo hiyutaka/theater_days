@@ -10,4 +10,4 @@ payload:
   - DOMAIN,worldflipper.akamaized.net  
   # > ウマ娘
   - DOMAIN,api-umamusume.cygames.jp
-  - DOMAIN,prd-storage-umamusume.akamaized.net
+  - DOMAIN,prd-storage-game-umamusume.akamaized.net
