@@ -11,3 +11,4 @@ payload:
   # > ウマ娘
   - DOMAIN,api-umamusume.cygames.jp
   - DOMAIN,prd-storage-game-umamusume.akamaized.net
+  - DOMAIN,prd-storage-app-umamusume.akamaized.net
