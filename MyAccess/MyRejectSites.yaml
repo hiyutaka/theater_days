@@ -1,8 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,9game.cn
   - DOMAIN-SUFFIX,microvirt.com
-  - DOMAIN-KEYWORD,ero
-  - DOMAIN-KEYWORD,henta
+ # - DOMAIN-KEYWORD,ero
+ # - DOMAIN-KEYWORD,henta
   - DOMAIN-KEYWORD,xnx
   - DOMAIN-KEYWORD,xvid
   - DOMAIN-KEYWORD,spank
