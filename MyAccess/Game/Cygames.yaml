@@ -4,6 +4,7 @@ payload:
   - IP-CIDR,104.115.222.198/32
   - DOMAIN,prd-priconne-redive.akamaized.net
   - DOMAIN-KEYWORD,priconne-redive
+  - DOMAIN,api-common01.cygames.jp
   # > ワールド フリップ
   - DOMAIN,api.worldflipper.jp
   - DOMAIN,pinball-reproduce-log-production.s3.ap-northeast-1.amazonaws.com
