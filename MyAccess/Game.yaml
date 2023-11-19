@@ -1,1 +1,53 @@
-
+payload:
+  # > アズールレーン
+  - DOMAIN,blhxjploginapi.azurlane.jp
+  - DOMAIN,azurapi.yostar.co.jp
+  - DOMAIN,blhxstatic.akamaized.net
+  - DOMAIN,blhxstatic.yo-star.com
+  # > 雀魂
+  - DOMAIN-SUFFIX,mahjongsoul.com
+  # > ブルーアーカイブ
+  - DOMAIN-SUFFIX,bluearchive.jp
+  - DOMAIN-SUFFIX,bluearchiveyostar.com
+  # > ミリシタ（ミリオンライブシアターディーズ）
+  - DOMAIN,theaterdays.appspot.com
+  - DOMAIN,webview-dot-theaterdays.appspot.com
+  - DOMAIN,d2sf4w9bkv485c.cloudfront.net
+  # > シャニマス（シャイニーカラーズ）
+  - DOMAIN-SUFFIX,enza.fun
+  # > プリコネ
+  - DOMAIN,api-priconne-redive.cygames.jp
+  - IP-CIDR,104.115.222.198/32
+  - DOMAIN,prd-priconne-redive.akamaized.net
+  - DOMAIN-KEYWORD,priconne-redive
+  - DOMAIN,api-common01.cygames.jp
+  # > ウマ娘
+  - DOMAIN,api-umamusume.cygames.jp
+  - DOMAIN,prd-storage-game-umamusume.akamaized.net
+  - DOMAIN,prd-storage-app-umamusume.akamaized.net    
+  # > オルサガ 
+  - DOMAIN-SUFFIX,horsaga.jp
+  - DOMAIN-SUFFIX,noahapps.jp
+  - DOMAIN,hsm-dl.sega-net.jp
+  # > PSO2 
+  - DOMAIN,launcher.pso2.jp
+  - DOMAIN,patch01.pso2gs.net
+  - IP-CIDR,210.189.209.0/24
+  - IP-CIDR,210.189.208.0/24
+  - DOMAIN,mgr.gameguard.co.kr
+  - DOMAIN-SUFFIX,pso2gs.net
+  - DOMAIN,download.pso2.jp
+  #- IP-CIDR,52.79.141.0/24
+  #- IP-CIDR,54.180.175.59/24
+  #- IP-CIDR,13.33.9.0/24
+  #- IP-CIDR,13.35.55.0/24
+  #- IP-CIDR,13.35.11.0/24
+  #- IP-CIDR,13.224.162.0/24
+  #- IP-CIDR,13.225.100.0/24
+  #- IP-CIDR,13.225.157.0/24
+  #- IP-CIDR,13.225.178.0/24
+  #- IP-CIDR,52.84.225.0/24
+  #- IP-CIDR,54.240.188.0/24
+  #- IP-CIDR,99.84.63.0/24
+  #- IP-CIDR,99.86.183.0/24
+  #- IP-CIDR,103.120.19.0/24
