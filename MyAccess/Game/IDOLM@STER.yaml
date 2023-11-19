@@ -1,7 +1,0 @@
-payload:
-  # > ミリシタ（ミリオンライブシアターディーズ）
-  - DOMAIN,theaterdays.appspot.com
-  - DOMAIN,webview-dot-theaterdays.appspot.com
-  - DOMAIN,d2sf4w9bkv485c.cloudfront.net
-  # > シャニマス（シャイニーカラーズ）
-  - DOMAIN-SUFFIX,enza.fun
